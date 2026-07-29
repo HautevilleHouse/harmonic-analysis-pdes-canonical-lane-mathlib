@@ -1,0 +1,17 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HarmonicAnalysisPdesCanonicalLaneLean.AdmittedHarmonicObject
+import HarmonicAnalysisPdesCanonicalLaneLean.BridgeLemmas
+import HarmonicAnalysisPdesCanonicalLaneLean.GateLemmas
+import HarmonicAnalysisPdesCanonicalLaneLean.CalderonZygmundOperator
+import HarmonicAnalysisPdesCanonicalLaneLean.MaximalFunction
+import HarmonicAnalysisPdesCanonicalLaneLean.LittlewoodPaleyTheory
+import HarmonicAnalysisPdesCanonicalLaneLean.SobolevEmbedding
+import HarmonicAnalysisPdesCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace HarmonicAnalysisPdesCanonicalLaneLean
+
+-- Package root: imports all domain modules
+
+end HarmonicAnalysisPdesCanonicalLaneLean
+end HautevilleHouse
